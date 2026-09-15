@@ -23,18 +23,19 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
+Prompt
+![Task 1 Screenshot](screenshots/Task-1-Chatgpt-Prompt.png)
+Response
+![Task 1 Screenshot](screenshots/Task-1-Chatgpt-Response.png)
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
 
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that network protocols are basically a set of rules that help computers communicate with each other. I also understood how different protocols like HTTP, HTTPS, DNS, and TCP are used for different types of communication.
 
 ---
 
@@ -59,7 +60,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a reader in the United States loads EpicReads, their browser initiates an HTTPS request targeting the bookstore server stationed in Finland. This secure application layer protocol runs on top of TCP/IP. The IP address acts like a precise digital street address, routing the traffic through international transit providers and transatlantic fiber optic cables. Instead of traveling as one massive file, the data relies on packet switching. The web page assets get chopped up into thousands of individual data packets, each tagged with destination coordinates. These packets travel across multiple network hops independently along the fastest paths available. Once they reach the Finnish data center, TCP inspects every packet, confirms nothing dropped out in transit, puts them back in original order, and delivers the finished web page cleanly onto the user's screen.
 
 ---
 
@@ -89,12 +90,7 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-Save your diagram image in the `screenshots` folder and update the file name below.
-
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
-
-
-Replace `task-3-diagram.png` with your actual diagram file name.
+![Application Architecture Diagram](screenshots/Task-3-Diagram.png)
 
 ---
 
@@ -102,18 +98,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React.js
+* HTML5 / CSS3
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js with Express
+* Python with FastAPI
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* PostgreSQL
+* MongoDB
 
 ---
 
@@ -142,7 +138,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1. The Domain Name System functions as the phonebook of the modern web. Computers navigate by numeric IP addresses, but humans remember words like `epicreads.com`. DNS bridges this gap by translating human-friendly names into machine-readable network locations.
+2. To link `epicreads.com` directly to `52.172.142.222`, the owner must create an **A (Address) Record** inside their domain's DNS management zone. An A record explicitly maps a root domain name to an IPv4 address. The destination port (port 3000) is handled downstream by a reverse proxy like Nginx or directly via application routing rather than the DNS layer itself.
 
 ---
 
@@ -159,7 +156,7 @@ Take a screenshot of your VS Code environment showing:
 
 ### Windows
 
-```powershell
+```powershell  
 dir
 ```
 
@@ -176,12 +173,7 @@ ls
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
-
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
-
-
-Replace `task-5-vscode.png` with your actual screenshot file name.
+![VS Code Setup Screenshot](screenshots/task-5-Vs-Code.png)
 
 ---
 
@@ -227,19 +219,38 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/ahmad-taj-824162283_dmibypravinmishra-activity-7505744205282172928-X58p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETmdBwB66sHOORWSfiKW5HZWaHQV7AqxN4
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
+Kicking off my DevOps journey with Week 00 of the DevOps Micro Internship (DMI)!
 
-Add your post content here...
+Here is a practical breakdown of the core internet fundamentals, architectures, and tools I explored this week:
+
+1. Networking & Protocols with AI
+Used guided prompting to break down network protocols. At their core, protocols are standardized communication rules ensuring disparate machines speak a common language without dropped signals.
+
+2. Global Web Traffic (US to Finland)
+Walked through how a user in the United States loads EpicReads, a bookstore hosted in Finland. Data travels across transatlantic links via packet switching under TCP/IP, where packets take dynamic paths and reassemble in proper order over secure HTTPS.
+
+3. Two-Tier vs Three-Tier Architectures
+Mapped out why modern production workloads rely on three tiers. Decoupling the frontend presentation layer from the backend API logic and isolating the database layer significantly improves security posture, maintainability, and horizontal autoscaling.
+
+4. DNS & Routing
+Explored how DNS functions as the internet's translation layer. Pointed epicreads.com to an IPv4 address using an A (Address) record, leaving port handling to reverse proxies like Nginx.
+
+5. Local Environment
+Configured and verified Visual Studio Code, setting up my integrated terminal workspace for upcoming infrastructure as code deliverables.
+
+Excited to build on these fundamentals as we dive deeper into automation, containers, and cloud engineering.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://lnkd.in/dPc4CV3A · Start your DevOps journey: https://lnkd.in/dYP_mUNw
+hashtag#DMIByPravinMishra
+@Pravin Mishra @Anjana Muthunayake
 
 ---
 
@@ -247,20 +258,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Setting up VS Code and running basic commands in the built-in terminal was pretty simple for me. I also had fun experimenting with ChatGPT to break down networking terms. Asking it for everyday examples made concepts like protocols click way faster than reading standard textbook definitions, and mapping the DNS record to an IP address made good sense once I pictured it like a phone directory.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Wrapping my head around how data actually moves across the world through packet switching was definitely the hardest part. Trying to picture files being broken apart, traveling through multiple network routes, and then arriving back in the right order without losing pieces felt a bit overwhelming. Figuring out how to properly draw the layers for two-tier and three-tier architectures also took some trial and error before I got the connections right.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
-
+Next week my biggest focus is time management. I ended up falling behind schedule and submitting this week's assessment late, which made everything feel rushed near the deadline. Moving forward, I want to break down the weekly tasks into smaller daily goals instead of leaving everything for the last minute.
 ---
 
 ## 📌 About DMI & CloudAdvisory
