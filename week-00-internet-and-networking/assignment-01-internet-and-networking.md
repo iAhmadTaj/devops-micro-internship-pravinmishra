@@ -173,7 +173,7 @@ ls
 
 ## Screenshot
 
-![VS Code Setup Screenshot](screenshots/task-5-Vs-Code.png)
+![VS Code Setup Screenshot](screenshots/Task-5-Vs-code.png)
 
 ---
 
