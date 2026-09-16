@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Most people around me believe that an academic degree is the ultimate safety net and the only legitimate credential for landing serious tech roles. I completely disagree. In software engineering, self directed projects and public proof of work carry ten times more weight than university grades. Additionally, many peers attempt to jump between five trending frameworks at once, thinking wide multitasking makes them competitive. I believe true market value comes from mastering one core engineering pillar deeply, delivering working software, and then deliberately evolving as real system demands require.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Daily technical consistency compounds, whereas irregular marathon coding sessions destroy retention and lead to burnout.
 
 ### Evidence from my life
 
-Add your answer here...
+Whenever I tried to cram entire programming concepts over long weekend sprints, I forgot the core details within two weeks. Once I shifted to spending just 60 to 90 minutes coding every single day, I completed complex deliverables with much less mental stress.
 
 ---
 
@@ -67,11 +67,10 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
-
+Theoretical knowledge vanishes quickly unless it is immediately validated by building and shipping real projects.
 ### Evidence from my life
 
-Add your answer here...
+I spent weeks watching tutorials and reading documentation, but whenever I sat down to create something from scratch, I froze. My real breakthrough came when I started building end to end applications, where debugging actual production errors taught me more in three days than weeks of passive viewing.
 
 ---
 
@@ -79,11 +78,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+A deadline without daily incremental milestones creates panic and produces low quality work.
 
 ### Evidence from my life
 
-Add your answer here...
+Leaving major project deliverables until the final 48 hours left me scrambling, cutting corners, and producing messy work. When I started breaking project deadlines into distinct daily tasks, I delivered assignments early and caught bugs before they turned into emergencies.
 
 ---
 
@@ -145,13 +144,19 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-Add your answer here...
+How Ahmad Taj Built a Modern Cloud Engineering Practice and Software House
+Five years ago, Ahmad Taj made a conscious decision that separated him from the typical tech graduate: he stopped relying on conventional academic paper trails and focused on building indisputable public proof of work. Today, his journey from an ambitious engineer mastering DevOps fundamentals to the founder of a high performing software consultancy serves as a benchmark for modern technical leadership.
+Taj began his trajectory by diving deep into cloud infrastructure and automation during the intensive DevOps Micro Internship program. Rather than chasing every fleeting software framework, he adopted a disciplined philosophy: master core architectural foundations, build reliable systems, and let delivered results speak for themselves.
+Over the following years, Taj built and shipped mission critical infrastructure solutions. He engineered end to end continuous integration and deployment pipelines across multi cloud architectures, orchestrated containerized microservices using Kubernetes, and published open source automation modules that solved real provisioning bottlenecks for engineering teams. His technical writings on infrastructure reliability, system architecture, and production debugging gained thousands of readers across the software community.
+His technical depth quickly evolved into organizational leadership. Leveraging his hands on experience in cloud platforms and full stack systems, Taj transitioned from a Senior Cloud and DevOps Engineer into an entrepreneur, founding a software engineering house dedicated to building resilient enterprise solutions. As a leader and job creator, he established an engineering culture built on continuous delivery, rigorous automation, and practical problem solving. He mentored junior developers, created high impact engineering roles, and led cross functional teams in delivering scalable platforms for global clients.
+Under his direction, the firm delivered dozens of robust platforms, handling complex migrations and modernizing legacy codebases with zero downtime. His portfolio stands not on hollow claims, but on verified repositories, transparent production implementations, and thriving client relationships. Ahmad Taj proved that by rejecting shortcuts, committing to relentless consistency, and focusing on true engineering output, an engineer can transition from executing terminal commands to architecting companies that build the future of software.
+P.S. This post is part of the DevOps Micro Internship (DMI) - Campus - by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/IAhmadTaj.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=campus
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+`https://medium.com/@ahmadtaj905/how-ahmad-taj-built-a-modern-cloud-engineering-practice-and-software-house-2f61c33e8e23?sharedUserId=ahmadtaj905`
 
 ---
 
@@ -183,7 +188,9 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+**Yes**
+
+Whenever I procrastinated and took shortcuts, the immediate emotional aftermath was heavy guilt mixed with persistent unease. The initial relief of bypassing effort quickly turned into internal friction because I knew deep down that the work lacked integrity and true substance. Even if nobody noticed the shortcut, I felt uncomfortable knowing I had cheated my own technical foundation. That lingering uneasiness constantly reminded me that unearned outcomes create anxiety, whereas putting in real, honest sweat brings genuine confidence and lasting peace of mind.
 
 ---
 
@@ -209,16 +216,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits by James Clear
+2. Deep Work by Cal Newport
+3. The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford
+4. The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, and John Willis
+5. Show Your Work! by Austin Kleon
+6. So Good They Can't Ignore You by Cal Newport
+7. Zero to One by Peter Thiel
+8. The Lean Startup by Eric Ries
+9. Essentialism by Greg McKeown
+10. The Psychology of Money by Morgan Housel
 
 ---
 
@@ -247,16 +254,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Deep work coding hours logged per week
+* GitHub commits and open source contributions shipped
+* Projects deployed to live production environments
+* Technical articles and engineering writeups published
+* Daily sleep quality and physical recovery hours
+* Daily screen time and digital distraction limits
+* Scheduled weekly focus blocks completed without interruption
+* Monthly personal savings and financial runway
+* Client and project revenue growth
+* Technical books and architectural documentation read per month
 
 ---
 
@@ -282,7 +289,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+**Yes**
 
 ---
 
@@ -300,7 +307,13 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Monday: Review weekly requirements and plan architectural deliverables
+* Tuesday: Night deep work session on core implementation
+* Wednesday: Night deep work session for testing, debugging, and verification
+* Thursday: Progress audit and refinement of technical documentation
+* Friday: Buffer evening for resting and family commitments
+* Saturday: Midday focus block for internship lab execution and hands on deployments
+* Sunday: Weekly review, documentation finalization, and public writeup publishing
 
 ---
 
@@ -308,11 +321,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+* Tuesday nights: 9:00 PM to 11:30 PM
+* Wednesday nights: 9:00 PM to 11:30 PM
+* Saturday afternoons: 1:00 PM to 4:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+3 dedicated sessions per week (totaling approximately 8 hours of focused work)
 
 ---
 
@@ -326,7 +341,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Phone stays in another room or face down on Do Not Disturb during dedicated coding blocks.
+* Zero access to short form video feeds (reels/shorts) before completing the day's technical output.
+* Browser notifications and chat apps remain closed until the deep work timer concludes.
 
 ---
 
@@ -334,28 +351,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that my biggest hurdle is not a lack of technical capability, but letting low friction distractions derail my momentum. When I give in to cheap dopamine, my schedule slips and creates unnecessary panic. Structuring explicit systems works far better than relying on temporary willpower.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My recurring pattern is falling into avoidance loops through procrastination, which leads to late work and the temptation to cut corners. That cycle only creates self doubt, whereas starting early completely eliminates the stress.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every Tuesday and Wednesday at 9:00 PM sharp, I will put my phone on silent across the room and run a 90 minute uninterrupted technical block dedicated solely to internship deliverables.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/ahmad-taj-824162283_dmi-devops-micro-internship-with-agentic-activity-7506040111797690369-xZHL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETmdBwB66sHOORWSfiKW5HZWaHQV7AqxN4`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/ahmad-taj-824162283_dmi-devops-micro-internship-with-agentic-activity-7506040111797690369-xZHL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETmdBwB66sHOORWSfiKW5HZWaHQV7AqxN4**  
+- Blog / Medium : **https://medium.com/@ahmadtaj905/how-ahmad-taj-built-a-modern-cloud-engineering-practice-and-software-house-2f61c33e8e23?sharedUserId=ahmadtaj905**  
 
 ---
 
