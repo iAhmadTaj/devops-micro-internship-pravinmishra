@@ -46,7 +46,8 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Blog of Medium](./screenshots/Assignment8_Blog.png)
+
 
 ---
 
@@ -54,7 +55,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@ahmadtaj905/reflection-on-my-devops-journey-with-agentic-ai-week-2-d36e22bfaaca`
 
 ---
 
@@ -92,23 +93,44 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![LinkedIn Post](./screenshots/Assignment8_LinkedinPost.png)
+
 
 ---
 
 ### Submission Field
 
 LinkedIn Post Content (copy-paste here):
-
 ```
-Paste your LinkedIn post content here
+Paste your LinkedIn post content here:
+
+Week 2 of the DevOps Micro Internship (DMI) with Agentic AI is officially complete! 🚀
+
+This week was an intensive hands-on deep dive into building production-ready agentic workflows using Claude Code. Instead of using AI as a basic chatbot, we transformed it into a controlled, autonomous engineering partner.
+
+Here is a quick summary of what I built across 8 practical assignments:
+
+🔹 The Agentic Loop: Mastered how Claude Code runs Gather → Act → Verify cycles to inspect codebases and execute terminal operations.
+🔹 Context & Skills: Codified project rules in CLAUDE.md and built custom slash commands (/scaffold-terraform) to generate complete infrastructure code in seconds.
+🔹 Specialized Subagents: Built dedicated agents like security-auditor and cost-optimizer, applying the principle of least privilege to model selection and tool permissions.
+🔹 MCP Integration: Connected Claude to the outside world using the GitHub Model Context Protocol (MCP) server for live repository interactions.
+🔹 Safety Rails & Hooks: Implemented bash hooks (UserPromptSubmit, PreToolUse, PostToolUse) to block destructive commands like terraform destroy and audit infrastructure actions automatically.
+🔹 Persistent Memory: Configured project-level MEMORY.md to persist architectural rules across completely fresh terminal sessions.
+
+Agentic DevOps is not about letting AI run unconstrained; it is about building the systems, boundaries, and deterministic rails that make automated execution safe and reliable.
+
+Read my complete Week 2 technical reflection blog here: [PASTE YOUR MEDIUM / BLOG LINK HERE]
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/iAhmadTaj.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
+
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+`https://lnkd.in/p/deX8yWub`
 
 ---
 
@@ -124,15 +146,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✅] Blog written with required structure
+* [✅] Blog includes at least 2–3 Week 2 topics
+* [✅] Blog is publicly accessible
+* [✅] LinkedIn post created
+* [✅] Required P.S. line included
+* [✅] LinkedIn post content copied in submission field
+* [✅] Blog link added
+* [✅] LinkedIn post link added
+* [✅] Screenshots added to GitHub repo
 
 ---
 
