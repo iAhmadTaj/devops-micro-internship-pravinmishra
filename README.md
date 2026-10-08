@@ -132,7 +132,7 @@ Week 02 → Agentic AI with Claude Code
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ahmad-taj-824162283_dmibypravinmishra-activity-7505744205282172928-X58p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETmdBwB66sHOORWSfiKW5HZWaHQV7AqxN4 | https://medium.com/@ahmadtaj905/breaking-down-the-web-what-actually-happens-when-you-open-a-website-f1099e10584f?sharedUserId=ahmadtaj905 |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ahmad-taj-824162283_dmi-devops-micro-internship-with-agentic-activity-7506040111797690369-xZHL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETmdBwB66sHOORWSfiKW5HZWaHQV7AqxN4 | https://medium.com/@ahmadtaj905/how-ahmad-taj-built-a-modern-cloud-engineering-practice-and-software-house-2f61c33e8e23?sharedUserId=ahmadtaj905 |
-| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://lnkd.in/p/deX8yWub | https://medium.com/@ahmadtaj905/reflection-on-my-devops-journey-with-agentic-ai-week-2-d36e22bfaaca |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ahmad-taj-824162283_dmibypravinmishra-agenticai-claudecode-ugcPost-7514027919980191747-o1FU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETmdBwB66sHOORWSfiKW5HZWaHQV7AqxN4 | https://medium.com/@ahmadtaj905/reflection-on-my-devops-journey-with-agentic-ai-week-2-d36e22bfaaca |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
